@@ -2,7 +2,7 @@
 
 ![Project Banner](images/banner.png)
 
-### Interactive Screening, Ranking, and Site Evaluation for Offshore Carbon Storage
+### Interactive Engineering Decision-Support Platform for Screening, Ranking, And Evaluating Offshore CO₂ Storage Opportunities Using Publicly Available BOEM Reservoir Data
 
 ---
 
