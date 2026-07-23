@@ -116,7 +116,7 @@ https://scholar.google.com/citations?user=Z2f-xHkAAAAJ&hl=en
 
 **LinkedIn**
 
-*(Add your LinkedIn URL here)*
+https://www.linkedin.com/in/muhammadzulqarnain
 
 **GitHub**
 
