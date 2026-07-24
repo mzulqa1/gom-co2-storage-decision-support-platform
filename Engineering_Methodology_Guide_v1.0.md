@@ -113,13 +113,14 @@ Three engineering scenarios are provided.
 | Intermediate | 0.80 psi/ft |
 | Higher Pressure | 0.90 psi/ft |
 
-The fracture pressure is estimated using the total vertical depth from sea level to the reservoir, which includes both water depth and reservoir depth.
+The fracture pressure is estimated using the total vertical depth from sea level to the reservoir, which includes both water depth and reservoir depth. To provide a conservative estimate of injection performance, the maximum allowable injection pressure is limited to 90% of the estimated fracture pressure. Three fracture-pressure-gradient scenarios (0.70, 0.80, and 0.90 psi/ft) are evaluated throughout the platform.
 
 The resulting injectivity estimates are reported in **million metric tonnes of CO₂ per year (Mt/year)**.
 
 Estimated injection time is subsequently calculated by dividing storage capacity by annual injectivity.
 
 Injection time provides an indication of the operational effort required to utilize the estimated storage resource and serves as an additional engineering screening parameter.
+
 # 6. Engineering Ranking
 
 ## 6.1 Overview
