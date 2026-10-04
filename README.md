@@ -103,14 +103,6 @@ Questions regarding the engineering workflow, methodology, or potential collabor
 
 ---
 
-## Live Demonstration
-
-**Interactive Streamlit Application**
-
-*(Streamlit application link will be added after deployment.)*
-
----
-
 ## About the Author
 
 **Dr. Muhammad Zulqarnain** is a **Petroleum Engineer and IBM-Certified Data Scientist** with over 15 years of experience in subsurface energy systems and more than a decade specializing in carbon capture and geological storage (CCS). His expertise spans reservoir simulation, geomechanics, Class VI well permitting, and the application of data science and machine learning to practical reservoir engineering and subsurface energy challenges. He holds IBM Professional Certificates in both **Data Science** and **Machine Learning**.
