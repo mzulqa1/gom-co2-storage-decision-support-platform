@@ -15,6 +15,11 @@ The platform integrates engineering calculations, prospect ranking, and GIS visu
 Designed for reservoir engineers, geologists, and carbon storage professionals, the platform provides an intuitive workflow for comparing storage opportunities during early-stage site screening.
 
 ---
+## 🌐 Live Application
+
+[Launch the Interactive GoM CO₂ Storage Screening and Ranking Platform](https://gom-co2-storage.streamlit.app/)
+
+---
 
 ## Main Dashboard
 
